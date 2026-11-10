@@ -62,7 +62,7 @@ Proven in the public repositories above (languages and package files), not a wis
 |:--|:--|
 | Website | [induswebagency.com](https://www.induswebagency.com) |
 | Start a project | [induswebagency.com/start-project](https://www.induswebagency.com/start-project) |
-| Upwork | [Muhammad Afzal Kalwar](https://www.upwork.com/freelancers/~01f4ad6974fac97bf3) |
+| Upwork | [Muhammad Afzal Kalwar](https://www.upwork.com/freelancers/mafzalkalwardev) |
 | Link hub | [Tapvio profile](https://mafzalkalwardev.github.io/tapvio/mafzalkalwardev/) |
 | Founder's GitHub | [@mafzalkalwardev](https://github.com/mafzalkalwardev) |
 | Email | [induswebagency@gmail.com](mailto:induswebagency@gmail.com) |
@@ -109,4 +109,4 @@ The studio is based in Islamabad, Pakistan, and is available immediately in any 
 
 ### How can I hire INDUS Web Agency?
 
-Use the [project inquiry form](https://www.induswebagency.com/start-project), email [induswebagency@gmail.com](mailto:induswebagency@gmail.com), WhatsApp [+92 307 9670503](https://wa.me/923079670503), hire via [Upwork](https://www.upwork.com/freelancers/~01f4ad6974fac97bf3), or see every public link on the [Tapvio page](https://mafzalkalwardev.github.io/tapvio/mafzalkalwardev/).
+Use the [project inquiry form](https://www.induswebagency.com/start-project), email [induswebagency@gmail.com](mailto:induswebagency@gmail.com), WhatsApp [+92 307 9670503](https://wa.me/923079670503), hire via [Upwork](https://www.upwork.com/freelancers/mafzalkalwardev), or see every public link on the [Tapvio page](https://mafzalkalwardev.github.io/tapvio/mafzalkalwardev/).
