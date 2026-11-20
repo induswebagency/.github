@@ -2,17 +2,17 @@
 
 INDUS Web Agency is a software studio in Islamabad, Pakistan, founded in 2026 by [Muhammad Afzal Kalwar](https://github.com/mafzalkalwardev). We build operator tooling in **Rust & Python**, including auto dialers, AI call agents, web scrapers, email and phone utilities, and custom web apps.
 
-ðŸŒ [induswebagency.com](https://www.induswebagency.com) Â· âœ‰ï¸ [info@mail.induswebagency.com](mailto:info@mail.induswebagency.com)
+🌐 [induswebagency.com](https://www.induswebagency.com) · ✉️ [info@mail.induswebagency.com](mailto:info@mail.induswebagency.com)
 
 ## Services
 
-- **Rust & Python automation** â€” scripts, services, and desktop tools for operations teams
-- **Auto dialers and AI call agents** â€” outbound calling systems, including Google Voice and iPECS Cloud workflows
-- **Web scraping** â€” Playwright and Selenium extraction from JavaScript-heavy sites, with CSV, Excel, or JSON export (public data, within site terms)
-- **Email and phone utilities** â€” list verification, campaigns, and a unified inbox
-- **Custom web apps and CRMs** â€” dashboards, lead workflows, and admin tools
-- **Chrome extensions and Windows desktop clients** â€” Manifest V3 extensions and load-board / dialer desktops
-- **Logistics and dispatch software** â€” carrier lookup, load-board access, and dispatch-team tooling
+- **Rust & Python automation** — scripts, services, and desktop tools for operations teams
+- **Auto dialers and AI call agents** — outbound calling systems, including Google Voice and iPECS Cloud workflows
+- **Web scraping** — Playwright and Selenium extraction from JavaScript-heavy sites, with CSV, Excel, or JSON export (public data, within site terms)
+- **Email and phone utilities** — list verification, campaigns, and a unified inbox
+- **Custom web apps and CRMs** — dashboards, lead workflows, and admin tools
+- **Chrome extensions and Windows desktop clients** — Manifest V3 extensions and load-board / dialer desktops
+- **Logistics and dispatch software** — carrier lookup, load-board access, and dispatch-team tooling
 
 ## Products
 
@@ -28,8 +28,8 @@ Live product sites below returned HTTP 200 on 20 Nov 2026 (America/New_York). So
 | [CarrierSource Free Data Collector](https://github.com/mafzalkalwardev/carrier-source-free-data-collector) | Chrome extension that collects freely visible CarrierSource carrier cards into local storage and exports CSV or Excel. | [carriersource.induswebagency.com](https://carriersource.induswebagency.com) |
 | [Tapvio](https://github.com/mafzalkalwardev/tapvio) | Free, open-source link-in-bio pages with nine themes and built-in SEO. No ads, no tracking, no sign-up. | [tapvio.induswebagency.com](https://tapvio.induswebagency.com) |
 | [Inkcadence](https://github.com/mafzalkalwardev/inkcadence) | Learns your handwriting from your own assignments and writes new pages in that hand, in the browser. Also published at [induswebagency/inkcadence](https://github.com/induswebagency/inkcadence). | [inkcadence.induswebagency.com](https://inkcadence.induswebagency.com) |
-| [PakOption](https://github.com/mafzalkalwardev/pakoption) | Inspection-backed car auction and classifieds marketplace for Pakistan. Design preview, shown with sample data â€” not live sales. | [pakoption.induswebagency.com](https://pakoption.induswebagency.com) |
-| [Sawa](https://github.com/mafzalkalwardev/sawa) | Bilingual (English and Arabic) demo of reserved seats on a shared commute van for Sharjahâ€“Dubai, Ajmanâ€“Dubai, and Dubaiâ€“Abu Dhabi. Fares and payments are demo-only; the project is not a licence to carry passengers. | [sawa.induswebagency.com](https://sawa.induswebagency.com) |
+| [PakOption](https://github.com/mafzalkalwardev/pakoption) | Inspection-backed car auction and classifieds marketplace for Pakistan. Design preview, shown with sample data — not live sales. | [pakoption.induswebagency.com](https://pakoption.induswebagency.com) |
+| [Sawa](https://github.com/mafzalkalwardev/sawa) | Bilingual (English and Arabic) demo of reserved seats on a shared commute van for Sharjah–Dubai, Ajman–Dubai, and Dubai–Abu Dhabi. Fares and payments are demo-only; the project is not a licence to carry passengers. | [sawa.induswebagency.com](https://sawa.induswebagency.com) |
 | [Voxyrn](https://github.com/mafzalkalwardev/voxyrn) | Self-hosted AI auto dialer and carrier CRM for outbound Google Voice campaigns, with a Rust audio engine, voicemail detection, call recording, leads, and local speech. | [voxyrn.induswebagency.com](https://voxyrn.induswebagency.com) |
 
 ## Clients
